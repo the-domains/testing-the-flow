@@ -1,7 +1,7 @@
 name: Testing the flow
 favicon: null
-layout_spectrum: 0.06098960852250457
-typography_spectrum: 0.7308202104177326
+layout_spectrum: 0.59258
+typography_spectrum: 0.28863
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6960059127304703
+  brandStrength: 0.5
   lightness: 0.06565320491790771
   saturation: 0.7403768326621503
   rhythmicContrast: 0.9198889823164791
